@@ -1,4 +1,4 @@
-Welcome to Stock Market Analyzer! Check it out [here](LINK).
+Welcome to Stock Market Analyzer! Check it out [here](https://interactive-stock-analysis.streamlit.app).
 
 Enter a stock symbol to learn more about it. You can change the time period, moving average, bollinger period & standard deviation, volitality period, RSI period, and the MACD fast and slow indicators! Too much?
 
